@@ -6,9 +6,7 @@
 
 # https://www.youtube.com/watch?v=eMOA1pPVUc4
 
-
 # In[2]:
-
 
 import os
 import pandas as pd
@@ -343,10 +341,3 @@ ax2.set_ylabel('Price ($)', color='b')
 ax1.set_xticklabels(products, rotation='vertical', size=8)
 
 plt.show()
-
-
-# In[ ]:
-
-
-
-
